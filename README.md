@@ -1,1 +1,1 @@
-# exerciciopos-graduacaocalculadorademedia
+# exercicioJSpos-graduacaocalculadorademedia
